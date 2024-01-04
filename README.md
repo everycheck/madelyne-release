@@ -35,7 +35,7 @@ To run the tool, you should just provide the main config file.
 The tests are run in the current folder. Be carefull where you are.
 
 ```bash
-madelyne -in conf.yml -filter filter-something-or-not
+madelyne test -in conf.yml -filter filter-something-or-not
 ```
 
 ## Config file
